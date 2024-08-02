@@ -72,18 +72,17 @@
 
 ## 鸿蒙App代码结构
 
-| 目录         | 说明                        |
-|------------|---------------------------|
-| common     | 通用包                       |
-| ⌞ net      | 为 YunMoAi 客户端软件提供的的 接口请求库 |
-| ⌞ net      | 程序入口                      |
-| ⌞ constant | 常量类                       |
-| data       | 数据管理                      |
-| ⌞ bean     | 数据解析类                     |
-| ⌞ provider | 数据仓库                      | |
-| manager    | 全局管理类                     |
-| pages      | UI                        |
-| store      | 全局/ui状态管理                 |
+| 目录         | 说明                                                                                                                                                       |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| common     | 通用包                                                                                                                                                      |
+| ⌞ net      | 为 YunMoAi 客户端软件提供的的 <a href="https://github.com/gracienewd/openharmony-App-YunmoAi/blob/master/entry/src/main/ets/common/net/RequestUtils.ets">接口请求库</a> |
+| ⌞ constant | 常量类                                                                                                                                                      |
+| data       | 数据管理                                                                                                                                                     |
+| ⌞ bean     | 数据解析类                                                                                                                                                    |
+| ⌞ provider | 数据仓库                                                                                                                                                     | |
+| manager    | <a src="https://github.com/gracienewd/openharmony-App-YunmoAi/tree/master/entry/src/main/ets/manager">全局管理类</a>                                          |
+| pages      | UI                                                                                                                                                       |
+| store      | <a src="https://github.com/gracienewd/openharmony-App-YunmoAi/tree/master/entry/src/main/ets/store">ui状态管理</a>                                                                                                                                   |
 
 ## 🍀 YunMoAPP 预览图
 

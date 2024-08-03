@@ -33,7 +33,7 @@
 | 目录            | 下载/体验地址                                                                                                                  | 
 |---------------|--------------------------------------------------------------------------------------------------------------------------|
 | 鸿蒙App         | [点击下载](https://github.com/gracienewd/openharmony-App-YunmoAi/blob/master/doc/app/heelo-default-1.0.0.app)                |
-| Android       | [点击下载](https://yunmonitor.oss-cn-hangzhou.aliyuncs.com/app/yunmoai_website_v1.2.0_3_release_nopay_2024-07-30-11h46m.apk) |
+| Android       | [点击下载](https://yunmonitor.oss-cn-hangzhou.aliyuncs.com/app/yunmoai_website.apk) |
 | iOS（AppStore） | [点击下载](https://apps.apple.com/cn/app/yunmoai/id6503045016)                                                               |
 
 </div>
@@ -80,9 +80,9 @@
 | data       | 数据管理                                                                                                                                                     |
 | ⌞ bean     | 数据解析类                                                                                                                                                    |
 | ⌞ provider | 数据仓库                                                                                                                                                     | |
-| manager    | <a src="https://github.com/gracienewd/openharmony-App-YunmoAi/tree/master/entry/src/main/ets/manager">全局管理类</a>                                          |
+| manager    | 全局<a src="https://github.com/gracienewd/openharmony-App-YunmoAi/tree/master/entry/src/main/ets/manager">管理类</a>                                          |
 | pages      | UI                                                                                                                                                       |
-| store      | <a src="https://github.com/gracienewd/openharmony-App-YunmoAi/tree/master/entry/src/main/ets/store">ui状态管理</a>                                                                                                                                   |
+| store      | ui<a src="https://github.com/gracienewd/openharmony-App-YunmoAi/tree/master/entry/src/main/ets/store">状态管理</a>                                                                                                                                   |
 
 ## 🍀 YunMoAPP 预览图
 

@@ -1,5 +1,6 @@
 import  {HomeComponent} from  "./home/index"
 import BuiPopup, { BuiPopupController } from '../views/dialog/BuiPopup';
+import { ChatComponent } from './chat';
 
 @Entry
 @Component
@@ -41,7 +42,9 @@ struct Index {
         )
 
         TabContent() {
-          Text('推荐的内容').fontSize(30)
+          Column(){
+            ChatComponent()
+          }.alignItems(HorizontalAlign.Start).height('100%')
         }
         .tabBar(
           this.TabBuilder("对话", 1, $r('app.media.tab_chat_sel'), $r('app.media.tab_chat_unsel'))
@@ -70,9 +73,9 @@ struct Index {
       }
       .onChange((index) => {
         this.currentIndex = index
-        if (index == 1) {
-          this.dialogController.open();
-        }
+        // if (index == 1) {
+        //   this.dialogController.open();
+        // }
       })
       .backgroundColor($r('app.color.app_background'))
 

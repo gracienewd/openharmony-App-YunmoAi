@@ -22,7 +22,7 @@ struct SplashPage {
     console.log('CustomComponent: aboutToAppear called. Component is about to appear.');
     setTimeout(() => {
       router.replaceUrl({ url: 'pages/Index' });
-    },1800) /// 3000
+    },0) /// 1800
   }
 
   build() {

@@ -20,7 +20,7 @@ export class AiHomeStore {
       new GptRole("-1","1","1","1","1"),
       new GptRole("-1","1","1","1","1")
     ]),
-    new HomeGptRolesRecommend("4", "写作",[
+    new HomeGptRolesRecommend("4", "效率",[
       new GptRole("-1","1","1","1","1"),
       new GptRole("-1","1","1","1","1"),
       new GptRole("-1","1","1","1","1"),

@@ -23,7 +23,7 @@
 ### 鸿蒙App截图
 |                                                首页                                                |                                                对话                                                | 
    |:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:| 
-| <img  width="240" src="https://yunmonitor.oss-cn-hangzhou.aliyuncs.com/github/hongmeng_1.png" /> | <img  width="240" src="https://yunmonitor.oss-cn-hangzhou.aliyuncs.com/github/hongmeng_2.png" /> | 
+| <img  width="200" src="https://yunmonitor.oss-cn-hangzhou.aliyuncs.com/github/hongmeng_1.png" /> | <img  width="200" src="https://yunmonitor.oss-cn-hangzhou.aliyuncs.com/github/hongmeng_2.png" /> | 
 
 
 ### 体验

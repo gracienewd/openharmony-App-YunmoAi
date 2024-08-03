@@ -21,7 +21,9 @@
 - 后续功能持续更新中
 
 ### 鸿蒙App截图
-> <img alt="ic_launcher_round" src="https://yunmonitor.oss-cn-hangzhou.aliyuncs.com/github/hongmeng_1.png" width="200">
+|                                                首页                                                |                                                对话                                                | 
+   |:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:| 
+| <img  width="150" src="https://yunmonitor.oss-cn-hangzhou.aliyuncs.com/github/hongmeng_1.png" /> | <img  width="150" src="https://yunmonitor.oss-cn-hangzhou.aliyuncs.com/github/hongmeng_2.png" /> | 
 
 
 ### 体验

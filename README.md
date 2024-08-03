@@ -80,9 +80,9 @@
 | data       | 数据管理                                                                                                                                                     |
 | ⌞ bean     | 数据解析类                                                                                                                                                    |
 | ⌞ provider | 数据仓库                                                                                                                                                     | |
-| manager    | 全局<a src="https://github.com/gracienewd/openharmony-App-YunmoAi/tree/master/entry/src/main/ets/manager">管理类</a>                                          |
+| manager    | 全局 <a src="https://github.com/gracienewd/openharmony-App-YunmoAi/tree/master/entry/src/main/ets/manager">管理类</a>                                         |
 | pages      | UI                                                                                                                                                       |
-| store      | ui<a src="https://github.com/gracienewd/openharmony-App-YunmoAi/tree/master/entry/src/main/ets/store">状态管理</a>                                                                                                                                   |
+| store      | ui <a src="https://github.com/gracienewd/openharmony-App-YunmoAi/tree/master/entry/src/main/ets/store">状态管理</a>                                          |
 
 ## 🍀 YunMoAPP 预览图
 
